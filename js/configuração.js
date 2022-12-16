@@ -609,8 +609,8 @@
 
                 alert('capa removido com sucesso!')
 
-                 const facas = document.querySelector(`[data-id="${removeButtonId}"]`)
-              facas.remove()
+                 const capas = document.querySelector(`[data-id="${removeButtonId}"]`)
+              capas.remove()
 
                     console.log('capa removido com sucesso!')
                 })
